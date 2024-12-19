@@ -38,7 +38,7 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rockyroed.vercel.app?user=rockyroed&theme=gruvbox&border_radius=3&card_width=600" alt="GitHub Streak" /></a>
   <br/>
-  <img width=390 src="https://github-readme-stats-ruddy-mu-64.vercel.app/api?username=rockyroed&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&border_radius=3" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-ruddy-mu-64.vercel.app/api?username=rockyroed&count_private=true&show_icons=true&theme=gruvbox&border_radius=3" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-ruddy-mu-64.vercel.app/api/top-langs/?username=rockyroed&langs_count=8&layout=compact&theme=gruvbox&border_radius=3&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
