@@ -36,7 +36,6 @@
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rockyroed.vercel.app?user=rockyroed&theme=gruvbox&border_radius=3&card_width=600" alt="GitHub Streak" /></a>
   <br/>
   <img width=390 src="https://github-readme-stats-ruddy-mu-64.vercel.app/api?username=rockyroed&count_private=true&show_icons=true&theme=gruvbox&border_radius=3" alt="readme stats" />
   <br/>
