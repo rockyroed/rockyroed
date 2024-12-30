@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=F5B92F&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Christian+Roed+Boyles" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&pause=1000&color=91D7E3&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Christian+Roed+Boyles" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate web developer from the Philippines 🇵🇭</h3>
@@ -37,7 +37,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align=center>
   <br/>
-  <img width=390 src="https://github-readme-stats-ruddy-mu-64.vercel.app/api?username=rockyroed&count_private=true&show_icons=true&theme=gruvbox&border_radius=3" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-ruddy-mu-64.vercel.app/api?username=rockyroed&count_private=true&show_icons=true&theme=catppuccin_mocha&border_radius=3" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ruddy-mu-64.vercel.app/api/top-langs/?username=rockyroed&langs_count=8&layout=compact&theme=gruvbox&border_radius=3&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-ruddy-mu-64.vercel.app/api/top-langs/?username=rockyroed&langs_count=8&layout=compact&theme=catppuccin_mocha&border_radius=3&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
