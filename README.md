@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="/assets/formal-picture-transparent.png" alt="Description of Image" width="200" height="200">
+  <img src="/assets/formal-picture-transparent.png" alt="Formal Picture" width="200" height="200">
 </div>
 
 <h3 align="center">A passionate web developer from the Philippines 🇵🇭</h3>
