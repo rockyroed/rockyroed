@@ -19,6 +19,6 @@
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=protonmail&logoColor=6d4aff)](mailto:christianroedpboyles@protonmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-roed-boyles/) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-roed.vercel.app/)
+  [![Email](https://img.shields.io/badge/ProtonMail-333333?style=for-the-badge&logo=protonmail&logoColor=6d4aff)](mailto:christianroedpboyles@protonmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-roed-boyles/)
 
 </div>
