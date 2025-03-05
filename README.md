@@ -12,7 +12,7 @@
 
   I’m currently working on **a BPM Counter**
 
-  I’m currently learning **Nix and NixOS**
+  I’m currently learning **TypeScript**
 
   Fun fact: **Porter Robinson is actually Taylor Swift**
 </div>
