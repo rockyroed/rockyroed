@@ -10,9 +10,9 @@
 
 <div align="center">
 
-  I’m currently working on **a BPM Counter**
+  I’m currently working on an [Exchange Rate Notifier](https://github.com/rockyroed/exchange-rate-notifier)
 
-  I’m currently learning **TypeScript**
+  I’m currently learning **TypeScript** and **Python**
 
   Fun fact: **Porter Robinson is actually Taylor Swift**
 </div>
