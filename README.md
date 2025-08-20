@@ -1,5 +1,5 @@
 ## Hi! 👋
-I'm Roed. Thanks for stopping by! 
+I'm Roed *(raw-ed)*. Thanks for stopping by! 
 
 ### I'm currently...
 - 🧑‍💻 Learning Python, TypeScript, and CI/CD
