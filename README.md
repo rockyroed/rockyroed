@@ -6,7 +6,7 @@ I'm Roed *(raw-ed)*. Thanks for stopping by!
 - 🤝 Contributing to FOSS
 
 ### Tools, frameworks and languages I've worked with so far:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,py,mysql,postgres,mongodb,supabase,vercel,git,github,githubactions,nodejs,postman,npm,pnpm,docker,vite,vscode,linux&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,py,mysql,postgres,mongodb,supabase,git,github,githubactions,bitbucket,nodejs,postman,npm,pnpm,docker,vite,vscode,linux&perline=13)](https://skillicons.dev)
 
 ### My Github Stats
 <div align="center">
