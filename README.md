@@ -6,16 +6,18 @@ I'm Roed *(raw-ed)*. Thanks for stopping by!
 - 🤝 Contributing to FOSS
 
 ### Tools, frameworks and languages I've worked with so far:
-<div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TS" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" alt="npm" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" alt="pnpm" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="50" height="50">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="50" height="50">
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,py,mysql,postgres,mongodb,supabase,vercel,git,github,githubactions,nodejs,postman,npm,pnpm,docker,vite,vscode,linux&perline=13)](https://skillicons.dev)
+
+### My Github Stats
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rockyroed&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="rockyroed's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockyroed&layout=compact&theme=dark&hide_border=true" />
 </div>
+<br />
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockyroed&bg_color=151515&color=ffffff&line=7AFF97&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  </a>
+</div>
+<br />
+<p align="right"><a href="#top">Back to top</a></p>
