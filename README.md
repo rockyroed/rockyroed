@@ -2,7 +2,7 @@
 I'm Roed *([raw-ed](https://ipa-reader.com/?text=%CB%88r%C9%94%CB%90.%C9%9Bd))*. Thanks for stopping by! 
 
 ### I'm currently...
-- 🧑‍💻 Learning Python, TypeScript, and CI/CD
+- 🧑‍💻 Learning Nuxt, TypeScript, and CI/CD
 - 🤝 Contributing to FOSS
 
 ### Tools, frameworks and languages I've worked with so far:
