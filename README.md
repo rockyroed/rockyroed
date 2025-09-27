@@ -3,7 +3,6 @@ I'm Roed *([raw-ed](https://ipa-reader.com/?text=%CB%88r%C9%94%CB%90.%C9%9Bd))*.
 
 ### I'm currently...
 - 🧑‍💻 Learning Nuxt, TypeScript, and CI/CD
-- 🤝 Contributing to FOSS
 
 ### Tools, frameworks and languages I've worked with so far:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,py,mysql,postgres,mongodb,supabase,git,github,githubactions,bitbucket,nodejs,postman,npm,pnpm,docker,vite,vscode,linux&perline=13)](https://skillicons.dev)
