@@ -9,8 +9,8 @@ I'm Roed *([raw-ed](https://ipa-reader.com/?text=%CB%88r%C9%94%CB%90.%C9%9Bd))*.
 
 ### My Github Stats
 <div align="center">
-  <img align="center" src="https://deor-github-stats.vercel.app/api?username=rockyroed&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="rockyroed's GitHub Stats" />
-  <img align="center" src="https://deor-github-stats.vercel.app/api/top-langs/?username=rockyroed&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&hide=html,nix,shell,glsl,scss,qml" />
+  <img align="center" src="https://deor-github-stats.vercel.app/api?username=rockyroed&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="rockyroed's GitHub Stats" />
+  <img align="center" src="https://deor-github-stats.vercel.app/api/top-langs/?username=rockyroed&theme=gruvbox&show_icons=true&hide_border=true&layout=compact&hide=html,nix,shell,glsl,scss,qml,php" />
 </div>
 <br />
 <div align="center">
