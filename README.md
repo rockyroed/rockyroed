@@ -5,7 +5,7 @@ I'm Roed *([raw-ed](https://ipa-reader.com/?text=%CB%88r%C9%94%CB%90.%C9%9Bd))*.
 - 🧑‍💻 Learning Svelte, Nuxt, and CI/CD
 
 ### Tools, frameworks and languages I've worked with so far:
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,svelte,tailwind,py,mongodb,supabase,git,github,bitbucket,nodejs,postman,docker,vite,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,vue,nuxtjs,svelte,tailwind,py,mongodb,supabase,git,github,nodejs,postman,docker,vite,vscode,linux)](https://skillicons.dev)
 
 ### My Github Stats
 <div align="center">
